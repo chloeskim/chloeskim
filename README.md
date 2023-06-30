@@ -1,13 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&animation=fadeIn&text=Welcome%20✈️&fontSize=30&fontAlign=80)
 
 ### Hello there 👋
-I'm Chloe, an aspiring <b>Software Developer</b>, eager to kickstart my career as a fresh graduate.  <br/> 
-🌱 With a strong passion for coding and a hunger for continuous learning, I thrive on new challenges and strive to gain  <br/> hands-on experience. 
-I prioritize collaboration, bringing problem-solving skills and a strong work ethic to the table.  <br/> 
-Embracing new technologies and concepts is what excites me the most.  <br/> 
+I'm Chloe, an aspiring <b>Software Developer</b>, eager to kickstart my career.
+🌱 With a strong passion for coding and <br/> a hunger for continuous learning, I thrive on tackling new challenges and applying my problem-solving skills.  <br/> 
 🌟 I am seeking opportunities to grow alongside talented professionals and contribute to impactful projects.  <br/> 
 I would greatly appreciate the opportunity to connect and discuss further.  <br/>
-Please feel free to contact me at your convenience. 😄  <br/><br/> 
+Please feel free to contact me at your convenience. Thank you 😄  <br/><br/> 
 
 #### 📫 How to reach me 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xx@gmail.com)](mailto:xx@gmail.com) <br/><br/>
