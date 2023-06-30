@@ -40,7 +40,7 @@ I'm a <b>Backend Developer</b> who is currently looking for a job. <br/><br/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=chloeskim&show_icons=true&theme=nightowl" />
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chloeskim&layout=compact&theme=nightowl" width="45%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chloeskim&layout=compact&theme=nightowl" width="43%" />
 </a>
 
 <!--
