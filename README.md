@@ -36,12 +36,12 @@ I'm a <b>Backend Developer</b> who is currently looking for a job. <br/><br/>
 <br/>
 <br/>
 
-<!-- <a href="#">
+<a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=chloeskim&show_icons=true&theme=nightowl" />
 </a>
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chloeskim&layout=compact&theme=nightowl" width="42%" />
-</a> -->
+</a>
 
 <!--
 **chloeskim/chloeskim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
