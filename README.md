@@ -1,7 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&animation=fadeIn&text=Welcome%20✈️&fontSize=30&fontAlign=80)
 
-<!-- ### Hi there 👋 -->
-I'm a <b>Backend Developer</b> who is currently looking for a job. <br/><br/>
+### Hello there 👋
+I'm Chloe, an aspiring <b>Software Developer</b>, eager to kickstart my career as a fresh graduate.  <br/> 
+🌱 With a strong passion for coding and a hunger for continuous learning, I thrive on new challenges and strive to gain  <br/> hands-on experience. 
+I prioritize collaboration, bringing problem-solving skills and a strong work ethic to the table.  <br/> 
+Embracing new technologies and concepts is what excites me the most.  <br/> 
+🌟 I am seeking opportunities to grow alongside talented professionals and contribute to impactful projects.  <br/> 
+I would greatly appreciate the opportunity to connect and discuss further.  <br/>
+Please feel free to contact me at your convenience. 😄  <br/><br/> 
 
 #### 🔨 Skills
 ##### Backend 
